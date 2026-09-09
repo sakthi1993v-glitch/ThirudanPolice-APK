@@ -14,3 +14,7 @@ Install steps:
 3. Play!
 
 No source code here — just the installable app.
+
+## Play in Browser (iPhone / iPad)
+
+No install needed: https://sakthi1993v-glitch.github.io/ThirudanPolice-APK/
